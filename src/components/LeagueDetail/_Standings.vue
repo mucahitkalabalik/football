@@ -22,7 +22,6 @@
         >
           Fullscreen
         </q-btn>
-
         <q-btn
           v-if="fullscreen"
           outline
