@@ -16,7 +16,6 @@
       <q-btn v-if="!fullscreen" outline class="q-ma-lg" @click="ScreenChange()">
         Fullscreen
       </q-btn>
-
       <q-btn
         v-if="fullscreen"
         outline

@@ -4,8 +4,6 @@
   >
   <q-dialog
     v-model="basic"
-    transition-show="rotate"
-    transition-hide="rotate"
     full-width
   >
     <q-card
